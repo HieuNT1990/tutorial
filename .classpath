@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="docroot/WEB-INF/service"/>
+	<classpathentry kind="src" path="docroot/WEB-INF/lib"/>
+	<classpathentry kind="src" path="docroot/WEB-INF/util-taglib"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="com.liferay.ide.eclipse.server.plugin.container/portlet">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/asm-debug-all-5.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jasperreports-6.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jasperreports-fonts-6.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jasperreports-functions-6.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jasperreports-javaflow-6.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-guava-2.22.2.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/lib.zip"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/opencps-portlet-service.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/opencps-portlet-taglib.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/struts.jar"/>
+	<classpathentry kind="lib" path="E:/NCS/Tool/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="docroot/WEB-INF/classes"/>
+</classpath>
